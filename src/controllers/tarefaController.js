@@ -82,3 +82,6 @@ import tarefaModel from "../models/tarefaModel.js";
  }
  
  export default new TarefaController();
+
+
+//  teste
